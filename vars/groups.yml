@@ -1,6 +1,10 @@
 ---
 aws_groups:
-  - fresno
+  - frisco
+  - dallas
+  - plano
+  - newyork
+  - chicago
   - sacramento
   - losangeles
   - sanfransisco
